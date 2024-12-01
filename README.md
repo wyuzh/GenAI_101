@@ -81,6 +81,8 @@ Requirement:
 
 # Networking Service
 
+## Free
+
 > [!CAUTION]
 > 1. The security and privacy of the following free Networking Service are not guaranteed, please use at your own risk.
 > 2. You are NOT recommended to use your frequently used email, username, password, or any other personal information to register or log in to these services.
@@ -89,5 +91,16 @@ Requirement:
 
 - [Urban VPN](https://www.urban-vpn.com/)
   - Support for iPhone, iPad, Google Chrome Extensions and more
+- [TunnelBear](https://www.tunnelbear.com/apps/mac)
+  - Limited usage, but relatively safer.
+
+## DIY
+
+Build Networking Service through Virtual Private Server (VPS)
+- Follow instructions on [YouTube](https://youtu.be/Stdj6U568S0?si=4djWLrlDVEL9pbaC)
+- Recommended domain name: [NameSilo](https://www.namesilo.com/)
+- Recommended VPS: [RackNerd](https://my.racknerd.com/)
+  - [RackNerd discount](https://www.vpstop.cn/idc/5.html)
+- Recommended DNS: [Cloudflare](https://www.cloudflare.com/)
 
 ---
