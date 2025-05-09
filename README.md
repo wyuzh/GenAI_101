@@ -97,7 +97,7 @@ Requirement:
 ## DIY
 
 Build Networking Service through Virtual Private Server (VPS)
-- Follow instructions on [YouTube](https://youtu.be/Stdj6U568S0?si=4djWLrlDVEL9pbaC)
+- Follow instructions on [YouTube](https://youtu.be/SpxTFes1B8U?si=1v9QwOr5vVzHCLyc)
 - Recommended domain name: [NameSilo](https://www.namesilo.com/)
 - Recommended VPS: [RackNerd](https://my.racknerd.com/)
   - [RackNerd discount](https://www.vpstop.cn/idc/5.html)
