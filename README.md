@@ -1,16 +1,15 @@
-
-> [!CAUTION]
-> 1. The security and privacy of the following [Zero-Restriction ChatGPT Usage](./#zero-restriction-chatgpt-usage) and [Networking Service](./#networking-service) are NOT guaranteed, please use at your own risk.
-> 2. You are NOT recommended to use your frequently used email, username, password, or any other personal information to register or log in to these services.
-> 3. You are NOT recommended to input any sensitive information during the usage of these services.
-> 4. You should NOT use these services for any commercial purposes. For academic discussion only.
-
 # Table of Contents
 
 1. [ChatGPT](#chatgpt)
 2. [Networking Service](#networking-service)
 
 ---
+
+> [!CAUTION]
+> 1. The security and privacy of the following Zero-Restriction ChatGPT Usage is NOT guaranteed, please use at your own risk.
+> 2. You are NOT recommended to use your frequently used email, username, password, or any other personal information to register or log in to these services.
+> 3. You are NOT recommended to input any sensitive information during the usage of these services.
+> 4. You should NOT use these services for any commercial purposes. For academic discussion only.
 
 # ChatGPT
 
