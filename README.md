@@ -5,9 +5,18 @@
 > 3. You are NOT recommended to input any sensitive information during the usage of these services.
 > 4. You should NOT use these services for any commercial purposes. For academic discussion only.
 
-# Zero-Restriction ChatGPT Usage
+# Table of Contents
 
-## 1. Free
+1. [ChatGPT](#chatgpt)
+2. [Networking Service](#networking-service)
+
+---
+
+# ChatGPT
+
+## 1. Zero-Restriction ChatGPT Usage
+
+### 1.1 Free
 
 <!-- [**www.yuelink.cn**](https://https://www.yuelink.cn/)
 - **GPT-4** available. -->
@@ -23,14 +32,14 @@
 [**chat.rawchat.cc**](https://chat.rawchat.cc/)
 - A Comprehensive **Proxy** of ChatGPT website, including Login, chat, but no register.
 
-## 2. Paid
+### 1.2 Paid
 
 [https://nf.video](https://nf.video/)
 - [More info](https://space.bilibili.com/3493146033916501)
 
 ---
 
-# ChatGPT
+## 2. ChatGPT
 
 **Step 1**: Turn on your **"Networking Service"** and switch to the ChatGPT-Available region (e.g. US)
 - Click **[here](./#networking-service)** to view the instructions
@@ -43,7 +52,7 @@
 
 ---
 
-# ChatGPT Plus
+## 3. ChatGPT Plus
 
 (This method is based on **ChatGPT App** on iPhone/iPad, **Apple Gift Cards** on **Apple official website** or **Alipay**, which is much more stable and safer than using virtual credit card.)
 
@@ -81,7 +90,7 @@ Requirement:
 
 # Networking Service
 
-## Free
+## 1. Free
 
 > [!CAUTION]
 > 1. The security and privacy of the following free Networking Service are not guaranteed, please use at your own risk.
@@ -94,7 +103,7 @@ Requirement:
 - [TunnelBear](https://www.tunnelbear.com/apps/mac)
   - Limited usage, but relatively safer.
 
-## DIY
+## 2. DIY
 
 Build Networking Service through Virtual Private Server (VPS)
 - Follow instructions on [YouTube](https://youtu.be/SpxTFes1B8U?si=1v9QwOr5vVzHCLyc)
