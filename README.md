@@ -104,11 +104,9 @@ Requirement:
 
 ## 2. DIY
 
-Build Networking Service through Virtual Private Server (VPS)
+Build a Networking Service through a Virtual Private Server (VPS)
 - Follow instructions on [YouTube](https://youtu.be/SpxTFes1B8U?si=1v9QwOr5vVzHCLyc)
-- Recommended domain name: [NameSilo](https://www.namesilo.com/)
 - Recommended VPS: [RackNerd](https://my.racknerd.com/)
-  - [RackNerd discount](https://www.vpstop.cn/idc/5.html)
-- Recommended DNS: [Cloudflare](https://www.cloudflare.com/)
+  - [RackNerd VPS discount](https://www.vpstop.cn/idc/5.html)
 
 ---
