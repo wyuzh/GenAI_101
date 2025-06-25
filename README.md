@@ -106,6 +106,7 @@ Requirement:
 
 Build a Networking Service through a Virtual Private Server (VPS)
 - Follow instructions on [YouTube](https://youtu.be/SpxTFes1B8U?si=1v9QwOr5vVzHCLyc)
+  - (optional) Followed by an advanced step: [YouTube](https://youtu.be/CXj-ID33MhU?si=ZP3LspdIH83TsaGj)
 - Recommended VPS: [RackNerd](https://my.racknerd.com/)
   - [RackNerd VPS discount](https://www.vpstop.cn/idc/5.html)
 
