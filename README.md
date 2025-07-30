@@ -2,11 +2,12 @@
 
 1. [ChatGPT](#chatgpt)
 2. [Networking Service](#networking-service)
+3. [Service Discount](#service-discount)
 
 ---
 
 > [!CAUTION]
-> 1. The security and privacy of the following Zero-Restriction ChatGPT Usage is NOT guaranteed, please use at your own risk.
+> 1. The security and privacy of the following Zero-Restriction ChatGPT Usage is NOT guaranteed; please use them at your own risk.
 > 2. You are NOT recommended to use your frequently used email, username, password, or any other personal information to register or log in to these services.
 > 3. You are NOT recommended to input any sensitive information during the usage of these services.
 > 4. You should NOT use these services for any commercial purposes. For academic discussion only.
@@ -71,7 +72,7 @@ Requirement:
 - **Option 1 (Recommended, official service from Apple)**: By using credit card on Apple official website (the final PIN code will be sent to your email)
   - Apple Gift Card website: [https://www.apple.com/shop/gift-cards](https://www.apple.com/shop/gift-cards)
   - Click **[here](https://youtu.be/9dp48HTaZns?si=GLTDnZZIady-fmj4)** to view the instructions on YouTube
-- **Option 2 (Not recommended, third party service)**: By using Alipay (支付宝) (the final PIN code will be shown on your Alipay app and email)
+- **Option 2 (Not recommended, third party service)**: By using Alipay (the final PIN code will be shown on your Alipay app and email)
   - Click **[here](https://youtu.be/9dp48HTaZns?si=qamcEY9Wx-5fJW3A&t=450)** to view the instructions on YouTube (start from 7:30)
 
 **Step 4**: Add value to your App Store account (using the US Apple ID created in Step 2) via Apple Gift Cards, and subscribe to ChatGPT Plus on ChatGPT App...
@@ -89,13 +90,13 @@ Requirement:
 
 # Networking Service
 
-## 1. Free
-
 > [!CAUTION]
-> 1. The security and privacy of the following free Networking Service are not guaranteed, please use at your own risk.
+> 1. The security and privacy of the following networking services are not guaranteed; please use them at your own risk.
 > 2. You are NOT recommended to use your frequently used email, username, password, or any other personal information to register or log in to these services.
 > 3. You are NOT recommended to input any sensitive information during the usage of these services.
 > 4. You should NOT use these services for any commercial purposes. For academic discussion only.
+
+## 1. Free
 
 - [Urban VPN](https://www.urban-vpn.com/)
   - Support for iPhone, iPad, Google Chrome Extensions and more
@@ -109,5 +110,16 @@ Build a Networking Service through a Virtual Private Server (VPS)
 - Option 2: Follow instructions on [YouTube](https://youtu.be/SpxTFes1B8U?si=1v9QwOr5vVzHCLyc)
 - Recommended VPS: [RackNerd](https://my.racknerd.com/)
   - [RackNerd VPS discount](https://www.vpstop.cn/idc/5.html)
+
+---
+
+# Service Discount
+
+> [!CAUTION]
+> 1. The discounts for the following service are not guaranteed. Please use them at your discretion.
+> 2. You should NOT use these services for any commercial purposes. For academic discussion only.
+
+- [RackNerd VPS](https://www.vpstop.cn/idc/5.html)
+- [Grammarly](https://masterblogging.com/deals/grammarly-discount/)
 
 ---
