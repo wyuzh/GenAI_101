@@ -106,10 +106,9 @@ Requirement:
 ## 2. DIY
 
 Build a Networking Service through a Virtual Private Server (VPS)
-- Option 1 (recommended): Follow instructions on [YouTube](https://youtu.be/ttqOSrIlL48?si=LRQGfHQkqMxL81wt)
-- Option 2: Follow instructions on [YouTube](https://youtu.be/SpxTFes1B8U?si=1v9QwOr5vVzHCLyc)
-- Recommended VPS: [RackNerd](https://my.racknerd.com/)
-  - [RackNerd VPS discount](https://www.vpstop.cn/idc/5.html)
+- Option 1 (beginner): Follow instructions on [YouTube](https://youtu.be/MgtOAVOXBWo?si=ofRBTSEzM86uWpHD)
+- Option 2 (advanced): Follow instructions on [YouTube](https://youtu.be/ttqOSrIlL48?si=Bz1sf2jz_ZVui5Av)
+- Recommended VPS: [RackNerd](https://my.racknerd.com/) ([discount](https://www.vpstop.cn/idc/5.html#hosting-plans))
 
 ---
 
