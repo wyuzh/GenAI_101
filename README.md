@@ -107,8 +107,10 @@ Requirement:
 
 Build a Networking Service through a Virtual Private Server (VPS)
 - Option 1 (beginner): Follow instructions on [YouTube](https://youtu.be/MgtOAVOXBWo?si=ofRBTSEzM86uWpHD)
-- Option 2 (advanced): Follow instructions on [YouTube](https://youtu.be/ttqOSrIlL48?si=Bz1sf2jz_ZVui5Av)
-- Recommended VPS: [RackNerd](https://my.racknerd.com/) ([discount](https://www.vpstop.cn/idc/5.html#hosting-plans))
+- Option 2 (recommended, advanced): Follow instructions on [YouTube](https://youtu.be/ttqOSrIlL48?si=Bz1sf2jz_ZVui5Av)
+- Recommended VPS: [RackNerd](https://my.racknerd.com/) 
+  - [RackNerd Discount](https://www.vpstop.cn/idc/5.html#hosting-plans)
+  - [Accept payment methods](https://my.racknerd.com/index.php?rp=/knowledgebase/7/What-payment-methods-do-you-accept.html): credit cards, UnionPay, PayPal, Cryptocurrency, Alipay, Wire, ...
 
 ---
 
