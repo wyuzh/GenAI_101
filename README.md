@@ -108,9 +108,12 @@ Requirement:
 Build a Networking Service through a Virtual Private Server (VPS)
 - Option 1 (beginner): Follow instructions on [YouTube](https://youtu.be/MgtOAVOXBWo?si=ofRBTSEzM86uWpHD)
 - Option 2 (recommended, advanced): Follow instructions on [YouTube](https://youtu.be/ttqOSrIlL48?si=Bz1sf2jz_ZVui5Av)
-- Recommended VPS: [RackNerd](https://my.racknerd.com/) 
-  - [RackNerd Discount](https://www.vpstop.cn/idc/5.html#hosting-plans)
-  - [Accept payment methods](https://my.racknerd.com/index.php?rp=/knowledgebase/7/What-payment-methods-do-you-accept.html): credit cards, UnionPay, PayPal, Cryptocurrency, Alipay, Wire, ...
+- Recommended VPS:
+  - Option 1 (recommended, beginner): [Google Clould](cloud.google.com) (Free credit + negligible cost)
+    - Follow instructions on [YouTube](https://youtu.be/12goOU6jG9w?si=uPhxxXvTcYRXSkBT)
+  - Option 2 (advanced): [RackNerd](https://my.racknerd.com/) 
+    - [RackNerd Discount](https://www.vpstop.cn/idc/5.html#hosting-plans)
+    - [RackNerd Accept payment methods](https://my.racknerd.com/index.php?rp=/knowledgebase/7/What-payment-methods-do-you-accept.html): credit cards, UnionPay, PayPal, Cryptocurrency, Alipay, Wire, ...
 
 ---
 
