@@ -3,6 +3,7 @@
 1. [ChatGPT](#chatgpt)
 2. [Networking Service](#networking-service)
 3. [Service Discount](#service-discount)
+4. [Gemini Pro](#gemini-pro)
 
 ---
 
@@ -125,5 +126,14 @@ Build a Networking Service through a Virtual Private Server (VPS)
 
 - [RackNerd VPS](https://www.vpstop.cn/idc/5.html)
 - [Grammarly](https://masterblogging.com/deals/grammarly-discount/)
+
+---
+
+# Gemini Pro
+
+- [Option 1](https://linux.do/t/topic/1242194)
+- [Option 2](https://linux.do/t/topic/919774)
+
+
 
 ---
