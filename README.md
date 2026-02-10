@@ -30,8 +30,8 @@
 - **GPT-3.5, GPT-4** available.
 - A Comprehensive reconstruction of ChatGPT website, including register, login, chat. -->
 
-[**chat.rawchat.cc**](https://chat.rawchat.cc/)
-- A Comprehensive **Proxy** of ChatGPT website, including Login, chat, but no register.
+<!-- [**chat.rawchat.cc**](https://chat.rawchat.cc/)
+- A Comprehensive **Proxy** of ChatGPT website, including Login, chat, but no register. -->
 
 ### 1.2 Paid
 
@@ -99,22 +99,25 @@ Requirement:
 
 ## 1. Free
 
-- [Urban VPN](https://www.urban-vpn.com/)
-  - Support for iPhone, iPad, Google Chrome Extensions and more
 - [TunnelBear](https://www.tunnelbear.com/apps/mac)
   - Limited usage, but relatively safer.
+- [Urban VPN](https://www.urban-vpn.com/)
+  - Support for iPhone, iPad, Google Chrome Extensions and more, but relatively unsafe.
+
 
 ## 2. DIY
 
-Build a Networking Service through a Virtual Private Server (VPS)
+### 2.1 Option 1: Build a Networking Service through Cloudflare (Free, for beginners)
+- Follow instructions on [YouTube](https://youtu.be/HcD4xYKXuRY?si=eSXeBoiTKroFp6R5)
+
+### 2.2 Option 2: Build a Networking Service through a Virtual Private Server (VPS)
 - Option 1 (beginner): Follow instructions on [YouTube](https://youtu.be/MgtOAVOXBWo?si=ofRBTSEzM86uWpHD)
-- Option 2 (recommended, advanced): Follow instructions on [YouTube](https://youtu.be/ttqOSrIlL48?si=Bz1sf2jz_ZVui5Av)
+- Option 2 (advanced): Follow instructions on [YouTube](https://youtu.be/ttqOSrIlL48?si=Bz1sf2jz_ZVui5Av)
 - Recommended VPS:
-  - Option 1 (recommended, beginner): [Google Clould](https://cloud.google.com) (Free credit + negligible cost)
+  - Option 1 (recommended): [Google Cloud](https://cloud.google.com) (Free credit + negligible cost)
     - Follow instructions on [YouTube](https://youtu.be/12goOU6jG9w?si=uPhxxXvTcYRXSkBT)
   - Option 2 (advanced): [RackNerd](https://my.racknerd.com/) 
     - [RackNerd Discount](https://www.vpstop.cn/idc/5.html#hosting-plans)
-    - [RackNerd Accept payment methods](https://my.racknerd.com/index.php?rp=/knowledgebase/7/What-payment-methods-do-you-accept.html): credit cards, UnionPay, PayPal, Cryptocurrency, Alipay, Wire, ...
 
 ---
 
