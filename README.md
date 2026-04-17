@@ -1,9 +1,10 @@
 # Table of Contents
 
-1. [ChatGPT](#chatgpt)
-2. [Networking Service](#networking-service)
-3. [Service Discount](#service-discount)
-4. [Gemini Pro](#gemini-pro)
+- [ChatGPT](#chatgpt)
+- [Networking Service](#networking-service)
+- [VPS](#vps)
+- [Service Discount](#service-discount)
+- [Gemini Pro](#gemini-pro)
 
 ---
 
@@ -113,11 +114,21 @@ Requirement:
 ### 2.2 Option 2: Build a Networking Service through a Virtual Private Server (VPS)
 - Option 1 (beginner): Follow instructions on [YouTube](https://youtu.be/MgtOAVOXBWo?si=ofRBTSEzM86uWpHD)
 - Option 2 (advanced): Follow instructions on [YouTube](https://youtu.be/ttqOSrIlL48?si=Bz1sf2jz_ZVui5Av)
-- Recommended VPS:
-  - Option 1 (recommended): [Google Cloud](https://cloud.google.com) (Free credit + negligible cost)
-    - Follow instructions on [YouTube](https://youtu.be/12goOU6jG9w?si=uPhxxXvTcYRXSkBT)
-  - Option 2 (advanced): [RackNerd](https://my.racknerd.com/) 
-    - [RackNerd Discount](https://www.vpstop.cn/idc/5.html#hosting-plans)
+- Recommended VPS: [VPS](#vps)
+
+---
+
+# VPS
+
+## 1. Google Cloud
+
+[Google Cloud](https://cloud.google.com) (Recommended, free credit + negligible cost)
+- Follow instructions on [YouTube](https://youtu.be/12goOU6jG9w?si=uPhxxXvTcYRXSkBT)
+
+## 2. RackNerd
+
+[RackNerd](https://my.racknerd.com/) (advanced)
+- [RackNerd Discount](https://www.vpstop.cn/idc/5.html#hosting-plans)
 
 ---
 
