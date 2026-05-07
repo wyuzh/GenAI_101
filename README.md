@@ -120,15 +120,15 @@ Requirement:
 
 # VPS
 
-## 1. Google Cloud
+## 1. RackNerd
 
-[Google Cloud](https://cloud.google.com) (Recommended, free credit + negligible cost)
+[RackNerd](https://my.racknerd.com/)
+- Follow instructions on [YouTube](https://youtu.be/aGEmCu503V8?si=P4hDTMjFPEVnTKP2)
+
+## 2. Google Cloud
+
+[Google Cloud](https://cloud.google.com)
 - Follow instructions on [YouTube](https://youtu.be/12goOU6jG9w?si=uPhxxXvTcYRXSkBT)
-
-## 2. RackNerd
-
-[RackNerd](https://my.racknerd.com/) (advanced)
-- [RackNerd Discount](https://www.vpstop.cn/idc/5.html#hosting-plans)
 
 ---
 
@@ -138,7 +138,6 @@ Requirement:
 > 1. The discounts for the following service are not guaranteed. Please use them at your discretion.
 > 2. You should NOT use these services for any commercial purposes. For academic discussion only.
 
-- [RackNerd VPS](https://www.vpstop.cn/idc/5.html)
 - [Grammarly](https://masterblogging.com/deals/grammarly-discount/)
 
 ---
