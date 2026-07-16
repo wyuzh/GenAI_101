@@ -58,7 +58,7 @@
 
 (This method is based on **ChatGPT App** on iPhone/iPad, **Apple Gift Cards** on **Apple official website**, which is much more stable and safer than using a virtual credit card.)
 
-Overall instruction: [here](https://youtu.be/mbfwrH09Vpk?si=qHe6SzeP4iuLGFoH)
+Overall instruction: [here](https://youtu.be/GAt5pcQbZkw?si=ia5CimcfB07tolK_&t=548) (start from 9:08)
 
 See step-by-step instructions below:
 
@@ -71,19 +71,22 @@ Requirement:
 - Click **[here](./#ChatGPT)** to view the instructions
 
 **Step 2**: Create **US Apple ID** (If you don't have one)
-- Click **[here](https://youtu.be/mbfwrH09Vpk?si=v00tzIQAxTQvMVpE)** to view the instructions on YouTube
+- Click **[here](https://youtu.be/GAt5pcQbZkw?si=ia5CimcfB07tolK_&t=548) (start from 9:08)** to view the instructions on YouTube
 
 **Step 3**: Buy Apple Gift Cards...
 - By using a credit card on the Apple official website (the final PIN code will be sent to your email)
   - Apple Gift Card website: [https://www.apple.com/shop/gift-cards](https://www.apple.com/shop/gift-cards)
-  - Click **[here](https://youtu.be/mbfwrH09Vpk?si=ZP9QB_uBmVXUcGNK&t=489)** to view the instructions on YouTube (start from 8:09)
+  - Click **[here](https://youtu.be/GAt5pcQbZkw?si=VsIFnh0P_GfXP4KO&t=1372)** to view the instructions on YouTube (start from 22:52)
 
 **Step 4**: Add value to your App Store account (using the US Apple ID created in Step 2) via Apple Gift Cards, and subscribe to ChatGPT Plus on ChatGPT App...
 - Please first download the **ChatGPT App** from **App Store** with the **US Apple ID** created in Step 2;
 - Remember to turn on your **"Networking Service"** and switch to the **US region** before opening the ChatGPT App;
   - Click **[here](./#networking-service)** to view the instructions
 - Remember to log in to the ChatGPT App with the **ChatGPT account** created in Step 1;
-- Then click **[here](https://youtu.be/mbfwrH09Vpk?si=71ix6hu2KT5tO2Rt&t=742)** to view the instructions on YouTube (start from 12:22)
+- Then add value to your App Store account via Apple Gift Cards
+  - click **[here](https://youtu.be/GAt5pcQbZkw?si=cIZUqo_aWKSwvkkj&t=1566)** to view the instructions on YouTube (start from 26:06)
+- Subscribe to ChatGPT Plus on the ChatGPT App
+  - click **[here](https://youtu.be/GAt5pcQbZkw?si=C0jjjJXXQxiLoOXF&t=1712)** to view the instructions on YouTube (start from 28:32)
 
 **Step 5**: After successfully subscribing to ChatGPT Plus on **ChatGPT App**, you can use the **ChatGPT Plus** function on both **ChatGPT App** and **ChatGPT website** as long as you log in to the same **ChatGPT account** created in Step 1.
 
